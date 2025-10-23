@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "channels": [
+      {
+        "id": "1",
+        "name": "Indosiar Digital TV",
+        "description": "Memang Untuk Anda",
+        "logo_url": "URL_LOGO_INDOSIAR",
+        "stream_url": "URL_STREAMING_INDOSIAR"
+      },
+      {
+        "id": "2",
+        "name": "ANTV HD",
+        "description": "Makin Keren",
+        "logo_url": "URL_LOGO_ANTV",
+        "stream_url": "URL_STREAMING_ANTV"
+      },
+      {
+        "id": "3",
+        "name": "Citra Bioskop",
+        "description": "Online",
+        "logo_url": "URL_LOGO_BIOSKOP",
+        "stream_url": "URL_STREAMING_BIOSKOP"
+      }
+    ]
+  },
+  {
+    "country": "Global",
+    "country_code": "GL",
+    "channels": [
+      {
+        "id": "4",
+        "name": "CNN International",
+        "description": "World News",
+        "logo_url": "URL_LOGO_CNN",
+        "stream_url": "URL_STREAMING_CNN"
+      }
+    ]
+  }
+]
