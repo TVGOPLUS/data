@@ -27,15 +27,15 @@
     ]
   },
   {
-    "country": "Global",
-    "country_code": "GL",
+    "country": "Malaysia",
+    "country_code": "MY",
     "channels": [
       {
         "id": "4",
-        "name": "CNN International",
+        "name": "TV1",
         "description": "World News",
         "logo_url": "URL_LOGO_CNN",
-        "stream_url": "URL_STREAMING_CNN"
+        "stream_url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd"
       }
     ]
   }
