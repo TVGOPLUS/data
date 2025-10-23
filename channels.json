@@ -5,24 +5,24 @@
     "channels": [
       {
         "id": "1",
-        "name": "Indosiar Digital TV",
-        "description": "Memang Untuk Anda",
-        "logo_url": "URL_LOGO_INDOSIAR",
-        "stream_url": "URL_STREAMING_INDOSIAR"
+        "name": "SCTV",
+        "description": "Satu Untuk Semua",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+        "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
       },
       {
         "id": "2",
         "name": "ANTV HD",
-        "description": "Makin Keren",
-        "logo_url": "URL_LOGO_ANTV",
-        "stream_url": "URL_STREAMING_ANTV"
+        "description": "Memang Untuk Anda",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png",
+        "stream_url": "http://203.77.246.58:4500/udp/239.1.1.110:5000"
       },
       {
         "id": "3",
-        "name": "Citra Bioskop",
-        "description": "Online",
-        "logo_url": "URL_LOGO_BIOSKOP",
-        "stream_url": "URL_STREAMING_BIOSKOP"
+        "name": "MDTV",
+        "description": "TV Paling Drama",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+        "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
       }
     ]
   },
