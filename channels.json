@@ -1,19 +1,11 @@
 [
-    {
-        "id": 1,
-        "name": "sctv",
-        "subtitle": "Persis Solo FC vs Malut United",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
-        "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000",
-        "streamType": "HLS"
-    },
-    {
-        "id": 2,
-        "name": "Indosiar Digital TV",
-        "subtitle": "Memang Untuk Anda",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
-        "streamUrl": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
-        "streamType": "DASH"
-    }
-    // ... Tambahkan channel lain di sini
+  {
+    "id": "1",
+    "country": "Indonesia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+    "title": "SCTV HD",
+    "subtitle": "Berita Terkini",
+    "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
+    "is_online": true
+  }
 ]
