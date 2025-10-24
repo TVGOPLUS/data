@@ -1,36 +1,10 @@
-{
-  "menu": [
-    {
-      "title": "Indonesia",
-      "code": "ID",
-      "is_category": false
-    },
-    {
-      "title": "Sports TV",
-      "code": "SP",
-      "is_category": true
-    }
-    // ... item menu lainnya
-  ],
-  "channels": [
-    {
-      "id": "1",
-      "name": "Indonesia: BRI Super League",
-      "description": "Persis Solo FC vs Malut United",
-      "logo_url": "URL_LOGO_ANDA",
-      "stream_url": "URL_HLS_ATAU_DASH",
-      "country_code": "ID",
-      "category_code": "SP"
-    },
-    {
-      "id": "2",
-      "name": "Channel Berita X",
-      "description": "Breaking News Hari Ini",
-      "logo_url": "URL_LOGO_ANDA",
-      "stream_url": "URL_HLS_ATAU_DASH",
-      "country_code": "ID",
-      "category_code": "NW"
-    }
-    // ... channel lainnya
-  ]
-}
+[
+  {
+    "name": "Nama Saluran",
+    "logo": "URL Logo",
+    "url": "URL Streaming (M3U8)",
+    "country": "Negara",
+    // ... field lainnya
+  },
+  // ... saluran lainnya
+]
