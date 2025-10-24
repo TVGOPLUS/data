@@ -1,20 +1,36 @@
-[
-  {
-    "id": "1",
-    "country": "Indonesia",
-    "logo_url": "https://example.com/logo/sctv.png",
-    "title": "SCTV HD",
-    "subtitle": "Berita Terkini",
-    "stream_url": "https://link.m3u8",
-    "is_online": true
-  }, 
-  {
-    "id": "2",
-    "country": "Malaysia",
-    "logo_url": "https://example.com/logo/tv3.png",
-    "title": "TV3 Malaysia",
-    "subtitle": "Informasi & Hiburan",
-    "stream_url": "https://link_stream_tv3.dash", 
-    "is_online": true
-  }
-]
+{
+  "menu": [
+    {
+      "title": "Indonesia",
+      "code": "ID",
+      "is_category": false
+    },
+    {
+      "title": "Sports TV",
+      "code": "SP",
+      "is_category": true
+    }
+    // ... item menu lainnya
+  ],
+  "channels": [
+    {
+      "id": "1",
+      "name": "Indonesia: BRI Super League",
+      "description": "Persis Solo FC vs Malut United",
+      "logo_url": "URL_LOGO_ANDA",
+      "stream_url": "URL_HLS_ATAU_DASH",
+      "country_code": "ID",
+      "category_code": "SP"
+    },
+    {
+      "id": "2",
+      "name": "Channel Berita X",
+      "description": "Breaking News Hari Ini",
+      "logo_url": "URL_LOGO_ANDA",
+      "stream_url": "URL_HLS_ATAU_DASH",
+      "country_code": "ID",
+      "category_code": "NW"
+    }
+    // ... channel lainnya
+  ]
+}
