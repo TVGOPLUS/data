@@ -7,10 +7,7 @@
     "subtitle": "Berita Terkini",
     "stream_url": "https://link.m3u8",
     "is_online": true
-  },
-  
-  // PASTI ADA KOMA (,) SEBELUM OBJEK BARU
-  
+  }, 
   {
     "id": "2",
     "country": "Malaysia", // <--- NEGARA BARU
