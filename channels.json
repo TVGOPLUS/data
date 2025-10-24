@@ -8,8 +8,8 @@
           "id": "sctv",
           "name": "SCTV HD",
           "description": "Liputan 6 Malam",
-          "logo_url": "https://link-logo-sctv.png",
-          "stream_url": "https://link-stream-hls-sctv.m3u8"
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+          "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
         },
         {
           "id": "indosiar",
@@ -24,7 +24,13 @@
       "country_name": "USA",
       "country_code": "US",
       "channels": [
-        // ... daftar saluran USA
+        {
+          "id": "sctv",
+          "name": "SCTV HD",
+          "description": "Liputan 6 Malam",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+          "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+        },
       ]
     }
   ]
