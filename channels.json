@@ -10,11 +10,10 @@
   }, 
   {
     "id": "2",
-    "country": "Malaysia", // <--- NEGARA BARU
+    "country": "Malaysia",
     "logo_url": "https://example.com/logo/tv3.png",
     "title": "TV3 Malaysia",
     "subtitle": "Informasi & Hiburan",
-    // PASTIKAN STREAM URL SUPPORT HLS (.m3u8), DASH, HTTP (.ts), atau RTMP
     "stream_url": "https://link_stream_tv3.dash", 
     "is_online": true
   }
