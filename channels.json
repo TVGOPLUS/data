@@ -26,7 +26,7 @@
       "channels": [
         {
           "id": "sctv",
-          "name": "SCTV HD",
+          "name": "SCTV",
           "description": "Liputan 6 Malam",
           "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
           "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
