@@ -2,10 +2,23 @@
   {
     "id": "1",
     "country": "Indonesia",
-    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+    "logo_url": "https://example.com/logo/sctv.png",
     "title": "SCTV HD",
     "subtitle": "Berita Terkini",
-    "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000",
+    "stream_url": "https://link.m3u8",
+    "is_online": true
+  },
+  
+  // PASTI ADA KOMA (,) SEBELUM OBJEK BARU
+  
+  {
+    "id": "2",
+    "country": "Malaysia", // <--- NEGARA BARU
+    "logo_url": "https://example.com/logo/tv3.png",
+    "title": "TV3 Malaysia",
+    "subtitle": "Informasi & Hiburan",
+    // PASTIKAN STREAM URL SUPPORT HLS (.m3u8), DASH, HTTP (.ts), atau RTMP
+    "stream_url": "https://link_stream_tv3.dash", 
     "is_online": true
   }
 ]
