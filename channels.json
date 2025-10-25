@@ -13,14 +13,36 @@
         "logo_url": "URL_LOGO_INDOSIAR",
         "stream_url": "URL_STREAMING_INDOSIAR_HLS_ATAU_DASH",
         "description": "Memang Untuk Anda"
+      },
+      {
+        "name": "Indosiar Digital TV",
+        "logo_url": "URL_LOGO_INDOSIAR",
+        "stream_url": "URL_STREAMING_INDOSIAR_HLS_ATAU_DASH",
+        "description": "Memang Untuk Anda"
       }
-      // ... Saluran lainnya ...
     ]
   },
   {
     "country": "Malaysia",
     "channels": [
-      // ... Saluran Malaysia ...
+      {
+        "name": "SCTV HD",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
+        "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000",
+        "description": "Siaran Utama"
+      },
+      {
+        "name": "Indosiar Digital TV",
+        "logo_url": "URL_LOGO_INDOSIAR",
+        "stream_url": "URL_STREAMING_INDOSIAR_HLS_ATAU_DASH",
+        "description": "Memang Untuk Anda"
+      },
+      {
+        "name": "Indosiar Digital TV",
+        "logo_url": "URL_LOGO_INDOSIAR",
+        "stream_url": "URL_STREAMING_INDOSIAR_HLS_ATAU_DASH",
+        "description": "Memang Untuk Anda"
+      }
     ]
   }
 ]
