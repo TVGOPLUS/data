@@ -1,37 +1,26 @@
-{
-  "countries": [
-    {
-      "country_name": "Indonesia",
-      "country_code": "ID",
-      "channels": [
-        {
-          "id": "sctv",
-          "name": "SCTV HD",
-          "description": "Liputan 6 Malam",
-          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
-          "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
-        },
-        {
-          "id": "indosiar",
-          "name": "Indosiar Digital TV",
-          "description": "Memang Untuk Anda",
-          "logo_url": "https://link-logo-indosiar.png",
-          "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
-        }
-      ]
-    },
-    {
-      "country_name": "USA",
-      "country_code": "US",
-      "channels": [
-        {
-          "id": "sctv",
-          "name": "SCTV",
-          "description": "Liputan 6 Malam",
-          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png",
-          "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
-        },
-      ]
-    }
-  ]
-}
+[
+  {
+    "country": "Indonesia",
+    "channels": [
+      {
+        "name": "SCTV HD",
+        "logo_url": "URL_LOGO_SCTV",
+        "stream_url": "URL_STREAMING_SCTV_HLS_ATAU_DASH",
+        "description": "Siaran Utama"
+      },
+      {
+        "name": "Indosiar Digital TV",
+        "logo_url": "URL_LOGO_INDOSIAR",
+        "stream_url": "URL_STREAMING_INDOSIAR_HLS_ATAU_DASH",
+        "description": "Memang Untuk Anda"
+      }
+      // ... Saluran lainnya ...
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "channels": [
+      // ... Saluran Malaysia ...
+    ]
+  }
+]
