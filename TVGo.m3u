@@ -4,14 +4,14 @@
 # --- Channel 1: Indosiar ---
 # EXTINF: <durasi>, tvg-id="Indosiar", tvg-name="Indosiar Digital TV", tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png", group-title="PREMIUM", Indosiar Digital TV
 # Catatan: Nilai group-title="PREMIUM" ini bisa Anda gunakan untuk menampilkan label "PREMIUM"
-# EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar Digital TV" tvg-logo="http://assets.tvgoplus.com/logo/indosiar.png" group-title="PREMIUM",Indosiar Digital TV
+# EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar Digital TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="PREMIUM",Indosiar Digital TV
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 # --- Channel 2: ANTV HD ---
 # EXTINF: <durasi>, tvg-id="ANTV", tvg-logo="http://assets.tvgoplus.com/logo/antv.png", group-title="Berita", ANTV HD
 # Catatan: Jika tidak ada group-title, Anda harus mengandalkan nama channel saja
 # EXTINF:-1 tvg-id="ANTV" tvg-logo="http://assets.tvgoplus.com/logo/antv.png" group-title="Nasional",ANTV HD
-http://stream.tvgoplus.com/live/antvhd/index.m3u8
+http://203.77.246.58:4500/udp/239.1.1.108:5000
 
 # --- Channel 3: Citra Bioskop ---
 # EXTINF: <durasi>, tvg-id="CitraBioskop", tvg-logo="http://assets.tvgoplus.com/logo/citra_bioskop.png", group-title="Citra Channel", Citra Bioskop
