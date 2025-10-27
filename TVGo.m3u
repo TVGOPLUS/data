@@ -2,10 +2,10 @@
 # Playlist URL: https://raw.githubusercontent.com/TVGOPLUS/data/refs/heads/main/TVGo.m3u
 
 # --- Channel 1: Indosiar ---
-# EXTINF: <durasi>, tvg-id="Indosiar", tvg-name="Indosiar Digital TV", tvg-logo="http://assets.tvgoplus.com/logo/indosiar.png", group-title="PREMIUM", Indosiar Digital TV
+# EXTINF: <durasi>, tvg-id="Indosiar", tvg-name="Indosiar Digital TV", tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png", group-title="PREMIUM", Indosiar Digital TV
 # Catatan: Nilai group-title="PREMIUM" ini bisa Anda gunakan untuk menampilkan label "PREMIUM"
 # EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar Digital TV" tvg-logo="http://assets.tvgoplus.com/logo/indosiar.png" group-title="PREMIUM",Indosiar Digital TV
-http://stream.tvgoplus.com/live/indosiar/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 # --- Channel 2: ANTV HD ---
 # EXTINF: <durasi>, tvg-id="ANTV", tvg-logo="http://assets.tvgoplus.com/logo/antv.png", group-title="Berita", ANTV HD
