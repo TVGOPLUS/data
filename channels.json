@@ -1,4 +1,46 @@
 {
+  "countries": [
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "channels": [
+        {
+          "id": "sctv",
+          "name": "SCTV",
+          "slogan": "Satu Untuk Semua",
+          "logo": "https://raw.githubusercontent.com/<username>/tvgo-config/main/logos/sctv.png",
+          "stream_url": "https://example.com/streams/sctv.m3u8"
+        },
+        {
+          "id": "rcti",
+          "name": "R.C.T.I",
+          "slogan": "Kebanggan bersama milik bangsa",
+          "logo": "https://raw.githubusercontent.com/<username>/tvgo-config/main/logos/rcti.png",
+          "stream_url": "https://example.com/streams/rcti.m3u8"
+        }
+      ]
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "channels": [
+        {
+          "id": "tv3",
+          "name": "TV3",
+          "slogan": "Lebih Seru",
+          "logo": "https://raw.githubusercontent.com/<username>/tvgo-config/main/logos/tv3.png",
+          "stream_url": "https://example.com/streams/tv3.m3u8"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+{
   "channels": [
     {
       "id": 1,
