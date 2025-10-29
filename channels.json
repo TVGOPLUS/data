@@ -40,6 +40,46 @@
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
     },
+     {
+      "id": "mdtv_001",
+      "name": "MD.tv",
+      "tagline": "Televisi Masa Kini",
+      "country": "Indonesia",
+      "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
+      "streamUrl": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
+    },
+    {
+      "id": "metrotv_002",
+      "name": "MetroTV",
+      "tagline": "Knowledge to Elevate",
+      "country": "Indonesia",
+      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
+      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
+    },
+    {
+      "id": "sctv_006",
+      "name": "SCTV",
+      "tagline": "Satu Untuk Semua",
+      "country": "Indonesia",
+      "logoUrl": "https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png",
+      "streamUrl": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8" 
+    },
+    {
+      "id": "mdtv_001",
+      "name": "MD.tv",
+      "tagline": "Televisi Masa Kini",
+      "country": "Indonesia",
+      "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
+      "streamUrl": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
+    },
+    {
+      "id": "metrotv_002",
+      "name": "MetroTV",
+      "tagline": "Knowledge to Elevate",
+      "country": "Indonesia",
+      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
+      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+    },
     {
       "id": "tv3_malaysia",
       "name": "TV3 Malaysia",
