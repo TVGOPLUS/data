@@ -34,11 +34,11 @@
     },
     {
       "id": "metrotv_002",
-      "name": "MetroTV",
+      "name": "RTV",
       "tagline": "Knowledge to Elevate",
       "country": "Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+      "streamUrl": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
     },
      {
       "id": "mdtv_001",
@@ -79,6 +79,28 @@
       "country": "Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+    },
+    {
+      "id": "metrotv_002",
+      "name": "MetroTV",
+      "tagline": "Knowledge to Elevate",
+      "country": "Indonesia",
+      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
+      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+    },{
+      "id": "metrotv_002",
+      "name": "TV2",
+      "tagline": "Knowledge to Elevate",
+      "country": "Indonesia",
+      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
+      "streamUrl": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
+    },{
+      "id": "metrotv_002",
+      "name": "TV1",
+      "tagline": "Knowledge to Elevate",
+      "country": "Indonesia",
+      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
+      "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
     },
     {
       "id": "tv3_malaysia",
