@@ -77,16 +77,16 @@
       "name": "MetroTV",
       "tagline": "Knowledge to Elevate",
       "country": "Indonesia",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+      "logoUrl": "https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png",
+      "streamUrl": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
     },
     {
       "id": "metrotv_002",
-      "name": "MetroTV",
+      "name": "TV9",
       "tagline": "Knowledge to Elevate",
       "country": "Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
+      "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
     },{
       "id": "metrotv_002",
       "name": "TV2",
