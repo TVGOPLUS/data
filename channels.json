@@ -51,15 +51,15 @@
         "id": "tv1_sg",
         "name": "TV1 Singapore",
         "tagline": "Saluran Premium",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2560px-Mentari_TV.svg.png",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
       },
       {
         "id": "mentari tv",
-        "name": "MENTARI TV",
+        "name": "SCTV",
         "tagline": "Gaya Hidup",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2560px-Mentari_TV.svg.png",
-        "url": "https://raw.githubusercontent.com/TVGOPLUS/data/refs/heads/main/mentari.m3u8"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1000px-SCTV_Logo.svg.png",
+        "url": "http://203.77.246.58:4500/udp/239.1.1.108:5000"
       }
     ]
   }
