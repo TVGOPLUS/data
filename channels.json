@@ -1,94 +1,98 @@
-{
+[
+  {
     "country": "Indonesia",
     "channels": [
-    {
-      "id": "1",
-      "name": "TRANSTV",
-      "tagline": "Milik Kita Bersama",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png",
-      "streamUrl": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
-    },
-    {
-      "id": "2",
-      "name": "CNN Indonesia",
-      "tagline": "Online",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
-      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
-    },
-    {
-      "id": "3",
-      "name": "TRANS7",
-      "tagline": "Satu Untuk Semua",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
-      "streamUrl": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8" 
-    },
-    {
-      "id": "mdtv_001",
-      "name": "MD.tv",
-      "tagline": "Televisi Masa Kini",
-      "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
-      "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
-    },
-    {
-      "id": "metrotv_002",
-      "name": "RTV",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
-    },
-     {
-      "id": "mdtv_001",
-      "name": "MD.tv",
-      "tagline": "Televisi Masa Kini",
-      "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
-      "streamUrl": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
-    },
-    {
-      "id": "metrotv_002",
-      "name": "MetroTV",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
-    },
-    {
-      "id": "mdtv_001",
-      "name": "MD.tv",
-      "tagline": "Televisi Masa Kini",
-      "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
-      "streamUrl": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
-    },
-    {
-      "id": "metrotv_002",
-      "name": "MetroTV",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",
-      "streamUrl": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
-    },
-    {
-      "id": "metrotv_002",
-      "name": "TV9",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
-    },{
-      "id": "metrotv_002",
-      "name": "TV2",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
-    },{
-      "id": "metrotv_002",
-      "name": "TV1",
-      "tagline": "Knowledge to Elevate",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
-    },
-    {
-      "id": "tv3_malaysia",
-      "name": "TV3 Malaysia",
-      "tagline": "Inspirasi",
-      "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
-      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8" 
-    }
-  ]
-}
+      {
+        "id": "transtv",
+        "name": "TRANS TV",
+        "tagline": "Satu Untuk Semua",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png",
+        "url": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
+      },
+      {
+        "id": "trans7",
+        "name": "TRANS 7",
+        "tagline": "Kebanggaan bersama milik bangsa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
+        "url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8"
+      },
+      {
+        "id": "cnn",
+        "name": "CNN INDONESIA",
+        "tagline": "Lebih Beragam, Lebih Seru!",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
+        "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
+      },
+      {
+        "id": "cnn",
+        "name": "CNN INDONESIA",
+        "tagline": "Lebih Beragam, Lebih Seru!",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
+        "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "channels": [
+      {
+        "id": "tv1",
+        "name": "TV1",
+        "tagline": "Tersohor di Malaysia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+      },
+      {
+        "id": "rtm1",
+        "name": "RTM TV1",
+        "tagline": "Sentiasa Bersama Anda",
+        "logo": "https://i.imgur.com/logo-rtm1.png",
+        "url": "https://example.com/stream/rtm1.m3u8"
+      },
+      {
+        "id": "rtm1",
+        "name": "RTM TV1",
+        "tagline": "Sentiasa Bersama Anda",
+        "logo": "https://i.imgur.com/logo-rtm1.png",
+        "url": "https://example.com/stream/rtm1.m3u8"
+      }
+    ]
+  }
+  },
+  {
+    "country": "Singapura",
+    "channels": [
+      {
+        "id": "tv1",
+        "name": "TV1",
+        "tagline": "Tersohor di Malaysia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+      },
+      {
+        "id": "rtm1",
+        "name": "RTM TV1",
+        "tagline": "Sentiasa Bersama Anda",
+        "logo": "https://i.imgur.com/logo-rtm1.png",
+        "url": "https://example.com/stream/rtm1.m3u8"
+      },
+      {
+        "id": "rtm1",
+        "name": "RTM TV1",
+        "tagline": "Sentiasa Bersama Anda",
+        "logo": "https://i.imgur.com/logo-rtm1.png",
+        "url": "https://example.com/stream/rtm1.m3u8"
+      }
+]
+
+
+
+
+
+
+
+
+
+
+
+
