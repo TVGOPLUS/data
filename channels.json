@@ -52,14 +52,14 @@
         "name": "TV1 Singapore",
         "tagline": "Saluran Premium",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+        "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
       },
       {
-        "id": "channel_u",
-        "name": "Channel U",
+        "id": "mentari tv",
+        "name": "MENTARI TV",
         "tagline": "Gaya Hidup",
-        "logo": "https://i.imgur.com/logo-channel-u.png",
-        "url": "https://example.com/stream/ch_u.m3u8"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2560px-Mentari_TV.svg.png",
+        "url": "https://raw.githubusercontent.com/TVGOPLUS/data/refs/heads/main/mentari.m3u8"
       }
     ]
   }
