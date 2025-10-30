@@ -1,10 +1,10 @@
 {
-  "channels": [
+    "country": "Indonesia",
+    "channels": [
     {
       "id": "1",
       "name": "TRANSTV",
       "tagline": "Milik Kita Bersama",
-      "country": "Indonesia",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png",
       "streamUrl": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
     },
@@ -12,7 +12,6 @@
       "id": "2",
       "name": "CNN Indonesia",
       "tagline": "Online",
-      "country": "Indonesia",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
       "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
     },
@@ -20,7 +19,6 @@
       "id": "3",
       "name": "TRANS7",
       "tagline": "Satu Untuk Semua",
-      "country": "Indonesia",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
       "streamUrl": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8" 
     },
@@ -28,7 +26,6 @@
       "id": "mdtv_001",
       "name": "MD.tv",
       "tagline": "Televisi Masa Kini",
-      "country": "Indonesia",
       "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
       "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
     },
@@ -36,7 +33,6 @@
       "id": "metrotv_002",
       "name": "RTV",
       "tagline": "Knowledge to Elevate",
-      "country": "Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
     },
@@ -44,7 +40,6 @@
       "id": "mdtv_001",
       "name": "MD.tv",
       "tagline": "Televisi Masa Kini",
-      "country": "Indonesia",
       "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
       "streamUrl": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
     },
@@ -52,23 +47,13 @@
       "id": "metrotv_002",
       "name": "MetroTV",
       "tagline": "Knowledge to Elevate",
-      "country": "Indonesia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
-    },
-    {
-      "id": "sctv_006",
-      "name": "SCTV",
-      "tagline": "Satu Untuk Semua",
-      "country": "Indonesia",
-      "logoUrl": "https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png",
-      "streamUrl": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8" 
     },
     {
       "id": "mdtv_001",
       "name": "MD.tv",
       "tagline": "Televisi Masa Kini",
-      "country": "Indonesia",
       "logoUrl": "https://www.mncvision.id/userfiles/image/channel/channel_87.png",
       "streamUrl": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
     },
@@ -76,7 +61,6 @@
       "id": "metrotv_002",
       "name": "MetroTV",
       "tagline": "Knowledge to Elevate",
-      "country": "Indonesia",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",
       "streamUrl": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
     },
@@ -84,21 +68,18 @@
       "id": "metrotv_002",
       "name": "TV9",
       "tagline": "Knowledge to Elevate",
-      "country": "Malaysia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
     },{
       "id": "metrotv_002",
       "name": "TV2",
       "tagline": "Knowledge to Elevate",
-      "country": "Malaysia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d"
     },{
       "id": "metrotv_002",
       "name": "TV1",
       "tagline": "Knowledge to Elevate",
-      "country": "Malaysia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
     },
@@ -106,7 +87,6 @@
       "id": "tv3_malaysia",
       "name": "TV3 Malaysia",
       "tagline": "Inspirasi",
-      "country": "Malaysia",
       "logoUrl": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png",
       "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8" 
     }
