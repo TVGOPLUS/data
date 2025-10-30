@@ -22,13 +22,6 @@
         "tagline": "Lebih Beragam, Lebih Seru!",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
         "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
-      },
-      {
-        "id": "cnn",
-        "name": "CNN INDONESIA",
-        "tagline": "Lebih Beragam, Lebih Seru!",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
-        "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
       }
     ]
   },
@@ -48,51 +41,26 @@
         "tagline": "Sentiasa Bersama Anda",
         "logo": "https://i.imgur.com/logo-rtm1.png",
         "url": "https://example.com/stream/rtm1.m3u8"
-      },
-      {
-        "id": "rtm1",
-        "name": "RTM TV1",
-        "tagline": "Sentiasa Bersama Anda",
-        "logo": "https://i.imgur.com/logo-rtm1.png",
-        "url": "https://example.com/stream/rtm1.m3u8"
       }
     ]
-  }
   },
   {
     "country": "Singapura",
     "channels": [
       {
-        "id": "tv1",
-        "name": "TV1",
-        "tagline": "Tersohor di Malaysia",
+        "id": "tv1_sg",
+        "name": "TV1 Singapore",
+        "tagline": "Saluran Premium",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
       },
       {
-        "id": "rtm1",
-        "name": "RTM TV1",
-        "tagline": "Sentiasa Bersama Anda",
-        "logo": "https://i.imgur.com/logo-rtm1.png",
-        "url": "https://example.com/stream/rtm1.m3u8"
-      },
-      {
-        "id": "rtm1",
-        "name": "RTM TV1",
-        "tagline": "Sentiasa Bersama Anda",
-        "logo": "https://i.imgur.com/logo-rtm1.png",
-        "url": "https://example.com/stream/rtm1.m3u8"
+        "id": "channel_u",
+        "name": "Channel U",
+        "tagline": "Gaya Hidup",
+        "logo": "https://i.imgur.com/logo-channel-u.png",
+        "url": "https://example.com/stream/ch_u.m3u8"
       }
+    ]
+  }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
