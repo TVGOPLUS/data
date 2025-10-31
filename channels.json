@@ -59,7 +59,7 @@
         "name": "YOUTUBE",
         "tagline": "online",
         "logo": "https://images.bisnis.com/posts/2014/09/17/258065/rajawali-tv-sep.jpg",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8"
+        "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
       }
     ]
   }
