@@ -52,10 +52,10 @@
       "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
       },
       {
-      "id": "rcti",
-      "name": "RCTI",
-      "tagline": "Kebanggaan bersama milik bangsa",
-      "logo": "https://github.com/TVGOPLUS/Logotv/blob/main/TV%20Indonesia/RCTI.png",
+      "id": "indosiar",
+      "name": "INDOSIAR",
+      "tagline": "Memang Untuk Anda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",
       "url": "http://103.66.62.83:8000/play/a001/index.m3u8"
       },
       {
