@@ -56,7 +56,7 @@
       "name": "RCTI",
       "tagline": "Kebanggaan bersama milik bangsa",
       "logo": "https://github.com/TVGOPLUS/Logotv/blob/main/TV%20Indonesia/RCTI.png",
-      "url": "http://iptvtree.net:8080/F28312/cc1dc138/157591"
+      "url": "http://103.66.62.83:8000/play/a001/index.m3u8"
       },
       {
       "id": "cnn",
@@ -79,10 +79,10 @@
       "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
       },
       {
-      "id": "rcti",
-      "name": "RCTI",
-      "tagline": "Kebanggaan bersama milik bangsa",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",
+      "id": "indosiar",
+      "name": "INDOSIAR",
+      "tagline": "Memang Untuk Anda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",
       "url": "http://iptvtree.net:8080/F28312/cc1dc138/157591"
       },
       {
