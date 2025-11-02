@@ -10,6 +10,13 @@
         "url": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
       },
       {
+        "id": "ndtv",
+        "name": "MDTV",
+        "tagline": "Online",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MDTV.jpg",
+        "url": "https://livestream.transtv.co.id/stream/live/ttv.m3u8"
+      },
+      {
         "id": "trans7",
         "name": "TRANS 7",
         "tagline": "Kebanggaan bersama milik bangsa",
@@ -43,54 +50,6 @@
       "tagline": "Kebanggaan bersama milik bangsa",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
       "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
-      },
-      {
-      "id": "sctv",
-      "name": "SCTV",
-      "tagline": "Satu Untuk Semua",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",
-      "url": "http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass"
-      },
-      {
-      "id": "indosiar",
-      "name": "INDOSIAR",
-      "tagline": "Memang Untuk Anda",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",
-      "url": "http://103.66.62.83:8000/play/a001/index.m3u8"
-      },
-      {
-      "id": "cnn",
-      "name": "CNN INDONESIA",
-      "tagline": "Lebih Beragam, Lebih Seru!",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
-      "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
-      },
-      {
-      "id": "trans7",
-      "name": "TRANS 7",
-      "tagline": "Kebanggaan bersama milik bangsa",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
-      "url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8"
-      },
-      {
-      "id": "sctv",
-      "tagline": "Satu Untuk Semua",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",
-      "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
-      },
-      {
-      "id": "indosiar",
-      "name": "INDOSIAR",
-      "tagline": "Memang Untuk Anda",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",
-      "url": "http://iptvtree.net:8080/F28312/cc1dc138/157591"
-      },
-      {
-      "id": "cnn",
-      "name": "CNN INDONESIA",
-      "tagline": "Lebih Beragam, Lebih Seru!",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",
-      "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8"
       }
     ]
   },
