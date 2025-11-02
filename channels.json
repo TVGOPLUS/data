@@ -49,7 +49,7 @@
       "name": "SCTV",
       "tagline": "Satu Untuk Semua",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",
-      "url": "http://103.66.62.83:8000/play/a069/index.m3u8"
+      "url": "http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass"
       },
       {
       "id": "indosiar",
