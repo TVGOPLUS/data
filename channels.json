@@ -20,14 +20,14 @@
         "id": "sctv",
         "name": "SCTV",
         "tagline": "Satu Untuk Semua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
         "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
       },
       {
         "id": "rcti",
         "name": "RCTI",
         "tagline": "Kebanggaan bersama milik bangsa",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj23L4IevSRcMEzPllV9nnCWfGBlwU_0jp0sve7lCNbDYFlh1f3ffFu5zBeevO0T0TpQM3B9lVLmVAmdKISXc6llaKhuLm6srKUfUw9OamuP7eA3tMsStOQE4xYzxd5ncbLcnfYpkpxBTn9PGw7XuaP9rbTww6Fpw7f2WZ4abQ1VwcDFBrmzNvhsQQdNGI/s1628/RCTI.png",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RCTI.jpg",
         "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti"
       },
       {
