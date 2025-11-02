@@ -105,11 +105,18 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
       },
       {
-        "id": "rtm1",
-        "name": "RTM TV1",
+        "id": "tv2",
+        "name": "TV2",
         "tagline": "Sentiasa Bersama Anda",
-        "logo": "https://i.imgur.com/logo-rtm1.png",
-        "url": "http://103.66.62.83:8000/play/a06k/index.m3u8"
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv2.png",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8"
+      },
+      {
+        "id": "tv3",
+        "name": "TV3",
+        "tagline": "Sentiasa Bersama Anda",
+        "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
       }
     ]
   },
