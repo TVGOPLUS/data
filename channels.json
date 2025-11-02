@@ -14,7 +14,7 @@
         "name": "MDTV",
         "tagline": "Online",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MDTV.jpg",
-        "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
+        "url": "http://103.66.62.83:8000/play/a06u/index.m3u8"
       },
       {
         "id": "trans7",
