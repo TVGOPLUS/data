@@ -2,6 +2,13 @@
   {
     "country": "Indonesia",
     "channels": [
+      
+      "id": "daai",
+      "name": "DAAI",
+      "tagline": "Televisi Cinta Kasih",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/DAAI.jpg",
+      "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
+      },
       {
         "id": "gtv",
         "name": "GTV",
