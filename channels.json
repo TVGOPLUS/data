@@ -3,6 +3,27 @@
     "country": "Indonesia",
     "channels": [
       {
+        "id": "gtv",
+        "name": "GTV",
+        "tagline": "Pilihan Terbaik Keluarga Indonesi",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/GTV.jpg",
+        "url": "http://103.66.62.83:8000/play/a02m/index.m3u8"
+      },
+      {
+      "id": "inewd",
+      "name": "INEWS",
+      "tagline": "Inspiring and Informative",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/INEWS.jpg",
+      "url": "http://103.66.62.83:8000/play/a06f/index.m3u8"
+      },
+      {
+      "id": "moji",
+      "name": "MOJI",
+      "tagline": "It's Moji",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MOJI.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass"
+      },
+      {
         "id": "transtv",
         "name": "TRANS TV",
         "tagline": "Milik Kita Bersama",
