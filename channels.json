@@ -3,6 +3,27 @@
     "country": "Indonesia",
     "channels": [
       {
+      "id": "tvone",
+      "name": "TVONE",
+      "tagline": "Terdepan Mengabarkan",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVONE.jpg",
+      "url": "http://103.66.62.83:8000/play/a06n/index.m3u8"
+      },
+      {
+      "id": "vtv",
+      "name": "VTV",
+      "tagline": "Hiburan Keluarga Penuh Warna",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/VTV.jpg",
+      "url": "http://103.66.62.83:8000/play/a06p/index.m3u8"
+      },
+      {
+      "id": "metrotv",
+      "name": "METRO TV",
+      "tagline": "Knowledge to Elevate",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/METROTV.jpg",
+      "url": "http://103.66.62.83:8000/play/a06c/index.m3u8"
+      },
+      {
       "id": "antv",
       "name": "ANTV",
       "tagline": "ANTV Rame",
