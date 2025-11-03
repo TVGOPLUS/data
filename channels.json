@@ -21,7 +21,7 @@
         "name": "INDOSIAR",
         "tagline": "Memang Untuk Anda",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/INDOSIAR.jpg",
-        "url": "http://103.66.62.83:8000/play/a001/index.m3u8"
+        "url": "http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass"
       },
       {
         "id": "trans7",
