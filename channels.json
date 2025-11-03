@@ -6,6 +6,13 @@
       "id": "daai",
       "name": "DAAI",
       "tagline": "Televisi Cinta Kasih",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/ANTV.jpg",
+      "url": "http://103.66.62.83:8000/play/a02k/index.m3u8"
+      },
+      {
+      "id": "daai",
+      "name": "DAAI",
+      "tagline": "Televisi Cinta Kasih",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/DAAI.jpg",
       "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
       },
