@@ -7,7 +7,7 @@
       "name": "TVRI",
       "tagline": "Media Pemersatu Bangsa",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRI.jpg",
-      "url": "http://103.170.33.11:9981/stream/channelid/1445163356?profile=pass"
+      "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8"
       },
       {
       "id": "tvriworld",
