@@ -1,0 +1,80 @@
+#EXTM3U
+
+# --- KELOMPOK: Indonesia (29 Saluran) ---
+
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg" group-title="Indonesia", SCTV (Satu Untuk Semua)
+http://iptvtree.net:8080/F28312/cc1dc138/162141
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RCTI.jpg" group-title="Indonesia", RCTI (Kebanggaan Bersama Milik Bangsa)
+http://iptvtree.net:8080/F28312/cc1dc138/157591
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRI.jpg" group-title="Indonesia", TVRI (Media Pemersatu Bangsa)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 tvg-id="tvriworld" tvg-name="TVRI WORLD" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRIWORLD.jpg" group-title="Indonesia", TVRI WORLD (Inspiring Indonesia)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 tvg-id="tvrisport" tvg-name="TV SPORT" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRISPORT.jpg" group-title="Indonesia", TV SPORT (Media Pemersatu Bangsa)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 tvg-id="mentaritv" tvg-name="MENTARI TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MENTARITV.jpg" group-title="Indonesia", MENTARI TV (Menyinari Dunia)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="magnachannel" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MAGNATV.jpg" group-title="Indonesia", Magna Channel (Asyik Abisss)
+http://103.66.62.83:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="bntv" tvg-name="BNTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/BNTV.jpg" group-title="Indonesia", BNTV (The Indonesian Business Heartbeat)
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC Indonesia" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/CNBC.jpg" group-title="Indonesia", CNBC Indonesia (Beyond Business)
+http://103.66.62.83:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="kompastv" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/KOMPASTV.jpg" group-title="Indonesia", KOMPAS TV (Independen | Terpercaya)
+http://103.66.62.83:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RTV.jpg" group-title="Indonesia", RTV (Makin Cakep)
+http://103.66.62.83:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="nusantaratv" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/NUSANTARATV.jpg" group-title="Indonesia", Nusantara TV (Sahabat Kita)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/BTV.jpg" group-title="Indonesia", BTV (Televisi Paling Menginspirasi)
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="garudatv" tvg-name="GARUDA TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/GARUDATV.jpg" group-title="Indonesia", GARUDA TV (Bersama Anda Untuk Indonesia)
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
+#EXTINF:-1 tvg-id="sinpotv" tvg-name="SIN PO TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SINPOTV.jpg" group-title="Indonesia", SIN PO TV (Matahari Indonesia)
+http://175.158.57.130:8888/stream/channelid/1138678610
+#EXTINF:-1 tvg-id="tvone" tvg-name="TVONE" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVONE.jpg" group-title="Indonesia", TVONE (Terdepan Mengabarkan)
+http://103.66.62.83:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/VTV.jpg" group-title="Indonesia", VTV (Hiburan Keluarga Penuh Warna)
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+#EXTINF:-1 tvg-id="metrotv" tvg-name="METRO TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/METROTV.jpg" group-title="Indonesia", METRO TV (Knowledge to Elevate)
+http://103.66.62.83:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="antv" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/ANTV.jpg" group-title="Indonesia", ANTV (ANTV Rame)
+http://103.66.62.83:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="daai" tvg-name="DAAI" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/DAAI.jpg" group-title="Indonesia", DAAI (Televisi Cinta Kasih)
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/GTV.jpg" group-title="Indonesia", GTV (Pilihan Terbaik Keluarga Indonesia)
+http://103.66.62.83:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="inewd" tvg-name="INEWS" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/INEWS.jpg" group-title="Indonesia", INEWS (Inspiring and Informative)
+http://iptvtree.net:8080/F28312/cc1dc138/157579
+#EXTINF:-1 tvg-id="moji" tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MOJI.jpg" group-title="Indonesia", MOJI (It's Moji)
+http://iptvtree.net:8080/F28312/cc1dc138/298550
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TRANSTV.jpg" group-title="Indonesia", TRANS TV (Milik Kita Bersama)
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#EXTINF:-1 tvg-id="mdtv" tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MDTV.jpg" group-title="Indonesia", MDTV (TV Paling Drama)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="indosiar" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/INDOSIAR.jpg" group-title="Indonesia", INDOSIAR (Memang Untuk Anda)
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TRANS7.jpg" group-title="Indonesia", TRANS 7 (Smart, Entertaining & Family)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN INDONESIA" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/CNN.jpg" group-title="Indonesia", CNN INDONESIA (News We Can Trust)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MNCTV.jpg" group-title="Indonesia", MNCTV (Selalu di Hati)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+# --- KELOMPOK: Malaysia ---
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTM_TV1_logo_2013.png" group-title="Malaysia", TV1 (Tersohor di Malaysia)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png" group-title="Malaysia", TV2 (Sentiasa Bersama Anda)
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+#EXTINF:-1 tvg-id="tv9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png" group-title="Malaysia", TV9 (Sentiasa Bersama Anda)
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
+#EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/STMB_TV3.png" group-title="Malaysia", TV3 (Media Pemersatu Bangsa)
+https://live-ssar-02.tonton.com.my/1762436658/0x9abcf00aedcfca133e13eb11769b3febaf5bc2b9f5c2fe4ed251ac29e29ad93c/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10a3d40f176-4a4068e6-808e-40da-a938-1892aaadd3cd&category=all&did=db70ba37-ca7a-90a6-8ff5-a9aa4186eafd&dnt=0&ifatype=sessionid&lot_auds=ca_1101,ca_354,ca_394,ca_360,ca_384,ca_288,ca_335,ca_051,ca_1056,ca_305,ca_1007,ca_1011,ca_672,ca_378,ca_239,ca_775,ca_202,ca_730,ca_784,ca_330,ca_074,ca_897,ca_724,,ca_803,ca_364,ca_797,ca_773,ca_972,all,ca_027,ca_338,ca_006,ca_336,ca_1016,ca_420,ca_1096,ca_1034,ca_358,ca_994,ca_363,ca_365,ca_353,ca_1040,ca_1035,ca_351&mm_sp&plt=web&ttd_uid2=A4AAAB1PuTLLaraH_MyBk51P2QRWKHoar0vcpYW80qyZxAVpbLwLyHnuUFj2cyvYW2wDu_lxYvMu8scoVg34edOSNUBvIYTyaG8PkSkrrgYQwjETUD_fk4M0JLiJ2_c40LfGKyQh38UUxoUzbOCDpYq8oJiO_P8BzDTTDe5Gb_14CBMAnPChAkobEiY3R02onomtzvdKnWqoX4Gk1B_XpOyCDg"
+
+# --- KELOMPOK: Singapura ---
+
+#EXTINF:-1 tvg-id="tv1_sg" tvg-name="TV1 Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2560px-Mentari_TV.svg.png" group-title="Singapura", TV1 Singapore (Saluran Premium)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="mentari tv" tvg-name="YOUTUBE" tvg-logo="https://images.bisnis.com/posts/2014/09/17/258065/rajawali-tv-sep.jpg" group-title="Singapura", YOUTUBE (online)
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
