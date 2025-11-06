@@ -3,6 +3,20 @@
     "country": "Indonesia",
     "channels": [
       {
+        "id": "sctv",
+        "name": "SCTV",
+        "tagline": "Satu Untuk Semua",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
+        "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
+      },
+      {
+        "id": "rcti",
+        "name": "RCTI",
+        "tagline": "Kebanggaan Bersama Milik Bangsa",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RCTI.jpg",
+        "url": "http://103.66.62.83:8000/play/a06k/index.m3u8"
+      },
+      {
       "id": "tvri",
       "name": "TVRI",
       "tagline": "Media Pemersatu Bangsa",
@@ -176,20 +190,6 @@
         "tagline": "Smart, Entertaining & Family",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TRANS7.jpg",
         "url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8"
-      },
-      {
-        "id": "sctv",
-        "name": "SCTV",
-        "tagline": "Satu Untuk Semua",
-        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
-        "url": "http://103.66.62.83:8000/play/a01t/index.m3u8"
-      },
-      {
-        "id": "rcti",
-        "name": "RCTI",
-        "tagline": "Kebanggaan Bersama Milik Bangsa",
-        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RCTI.jpg",
-        "url": "http://103.66.62.83:8000/play/a06k/index.m3u8"
       },
       {
         "id": "cnn",
