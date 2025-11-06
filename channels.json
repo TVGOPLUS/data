@@ -14,14 +14,14 @@
       "name": "TVRI WORLD",
       "tagline": "Inspiring Indonesia",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRIWORLD.jpg",
-      "url": "http://103.170.33.11:9981/stream/channelid/485068452?profile=pass"
+      "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8"
       },
       {
       "id": "tvrisport",
       "name": "TV SPORT",
       "tagline": "Media Pemersatu Bangsa",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRISPORT.jpg",
-      "url": "http://103.170.33.11:9981/stream/channelid/768175194?profile=pass"
+      "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8"
       },
       {
       "id": "mentaritv",
