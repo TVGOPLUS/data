@@ -42,7 +42,7 @@
       "name": "MENTARI TV",
       "tagline": "Menyinari Dunia",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MENTARITV.jpg",
-      "url": "http://103.66.62.83:8000/play/a06b/index.m3u8"
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
       },
       {
       "id": "magnachannel",
