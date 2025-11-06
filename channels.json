@@ -3,6 +3,96 @@
     "country": "Indonesia",
     "channels": [
       {
+      "id": "tvri",
+      "name": "TVRI",
+      "tagline": "Media Pemersatu Bangsa",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRI.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/1445163356?profile=pass"
+      },
+      {
+      "id": "tvriworld",
+      "name": "TVRI WORLD",
+      "tagline": "Inspiring Indonesia",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRIWORLD.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/485068452?profile=pass"
+      },
+      "id": "tvrisport",
+      "name": "TV SPORT",
+      "tagline": "Media Pemersatu Bangsa",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRISPORT.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/768175194?profile=pass"
+      },
+      {
+      "id": "mentaritv",
+      "name": "MENTARI TV",
+      "tagline": "Menyinari Dunia",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MENTARITV.jpg",
+      "url": "http://103.66.62.83:8000/play/a06b/index.m3u8"
+      },
+      
+      "id": "magnachannel",
+      "name": "Magna Channel",
+      "tagline": "Asyik Abisss",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/MAGNATV.jpg",
+      "url": "http://103.66.62.83:8000/play/a026/index.m3u8"
+      },
+      {
+      "id": "bntv",
+      "name": "BNTV",
+      "tagline": "The Indonesian Business Heartbeat",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/BNTV.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass"
+      },
+      
+      "id": "cnbc",
+      "name": "CNBC Indonesia",
+      "tagline": "Beyond Business",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/CNBC.jpg",
+      "url": "http://103.66.62.83:8000/play/a025/index.m3u8"
+      },
+      {
+      "id": "kompastv",
+      "name": "KOMPAS TV",
+      "tagline": "Independen | Terpercaya",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/KOMPASTV.jpg",
+      "url": "http://103.66.62.83:8000/play/a06m/index.m3u8"
+      },
+      
+      "id": "rtv",
+      "name": "RTV",
+      "tagline": "Makin Cakep",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RTV.jpg",
+      "url": "http://103.66.62.83:8000/play/a06v/index.m3u8"
+      },
+      {
+      "id": "nusantaratv",
+      "name": "Nusantara TV",
+      "tagline": "Sahabat Kita",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/NUSANTARATV.jpg",
+      "url": "http://iptvtree.net:8080/F28312/cc1dc138/166410"
+      },
+      
+      "id": "btv",
+      "name": "BTV",
+      "tagline": "Televisi Paling Menginspirasi",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/BTV.jpg",
+      "url": "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8"
+      },
+      {
+      "id": "garudatv",
+      "name": "GARUDA TV",
+      "tagline": "Bersama Anda Untuk Indonesia",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/GARUDATV.jpg",
+      "url": "http://103.170.33.11:9981/stream/channelid/745960124?profile=pass"
+      },
+      
+      "id": "sinpotv",
+      "name": "SIN PO TV",
+      "tagline": "Matahari Indonesia",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SINPOTV.jpg",
+      "url": "http://175.158.57.130:8888/stream/channelid/1138678610"
+      },
+      {
       "id": "tvone",
       "name": "TVONE",
       "tagline": "Terdepan Mengabarkan",
