@@ -3,6 +3,13 @@
     "country": "Indonesia",
     "channels": [
       {
+      "id": "rodjatv",
+      "name": "RODJATV",
+      "tagline": "Saluran Tilawah Al-Qur'an dan Kajian Islam",
+      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/RODJATV.jpg",
+      "url": "https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8"
+      },
+      {
         "id": "sctv",
         "name": "SCTV",
         "tagline": "Satu Untuk Semua",
@@ -99,13 +106,6 @@
       "tagline": "Bersama Anda Untuk Indonesia",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/GARUDATV.jpg",
       "url": "https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8"
-      },
-      {
-      "id": "sinpotv",
-      "name": "SIN PO TV",
-      "tagline": "Matahari Indonesia",
-      "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SINPOTV.jpg",
-      "url": "http://175.158.57.130:8888/stream/channelid/1138678610"
       },
       {
       "id": "tvone",
