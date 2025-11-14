@@ -21,7 +21,7 @@
         "name": "SCTV 1",
         "tagline": "Satu Untuk Semua",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
-        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd"
       },
       {
         "id": "rcti",
