@@ -14,7 +14,14 @@
         "name": "SCTV",
         "tagline": "Satu Untuk Semua",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
-        "url": "http://filex.tv:8080//live/Waqas%20Latif/12345678/302293.ts"
+        "url": "http://103.170.33.11:9981/stream/channelid/177596259?profile=pass"
+      },
+      {
+        "id": "sctv",
+        "name": "SCTV 1",
+        "tagline": "Satu Untuk Semua",
+        "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/SCTV.jpg",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd"
       },
       {
         "id": "rcti",
