@@ -39,7 +39,7 @@
       },
       {
       "id": "tvrisport",
-      "name": "TV SPORT",
+      "name": "TVRI SPORT",
       "tagline": "Media Pemersatu Bangsa",
       "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/TVRISPORT.jpg",
       "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8"
@@ -182,7 +182,7 @@
         "name": "INDOSIAR",
         "tagline": "Memang Untuk Anda",
         "logo": "https://raw.githubusercontent.com/TVGOPLUS/Logotv/refs/heads/main/TV%20Indonesia/INDOSIAR.jpg",
-        "url": "http://iptvtree.net:8080/F28312/cc1dc138/162138"
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd"
       },
       {
         "id": "trans7",
